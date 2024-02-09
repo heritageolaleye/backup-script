@@ -11,7 +11,7 @@ This is a simple bash script that helps to create backups of files from a source
 
 ```bash
 git clone
-https://github.com/username/repo.git
+https://github.com/heritageolaleye/backup-script.git
 ```
 
 2. Modify the script variables:
