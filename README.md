@@ -10,7 +10,8 @@ This is a simple bash script that helps to create backups of files from a source
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone
+https://github.com/username/repo.git
 ```
 
 2. Modify the script variables:
